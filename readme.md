@@ -5,6 +5,11 @@ ___
 - Tengo 22 años 
 - Mi nro de Legajo es 11080
 - Vivo en Belen de Escobar 
+
+
+![Yo](https://user-images.githubusercontent.com/80929184/112360930-9a414180-8cb1-11eb-92f6-b9e4a11dd417.jpg)
+    
+
 ___
 ### ***Acerca de Mi***
 - Me gusta jugar al voley y futbol,practico ambos desde que era niño 
