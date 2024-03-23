@@ -7,7 +7,6 @@ ___
 - Vivo en Belen de Escobar 
 
 
-![Yo](https://user-images.githubusercontent.com/80929184/112360930-9a414180-8cb1-11eb-92f6-b9e4a11dd417.jpg)
     
 
 ___
