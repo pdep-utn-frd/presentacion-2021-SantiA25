@@ -12,11 +12,11 @@ ___
 
 ___
 ### ***Acerca de Mi***
-- Me gusta jugar al voley y futbol,practico ambos desde que era niño 
+- Me gusta jugar al voley y futbol,practico ambos desde que era chico
 - Formo parte del equipo de voley de la facultad 
-- Me  gustan los perros y tengo uno llamado Rambo 
+- Me  gustan los perros
 - Soy de mirar muchas peliculas,mis favoritas son aquellas que tienen un buen final o te dejan con intriga(El Origen,El Gran truco,etc)
 - Me gustan las series(me engancho una de vez en cuando) y leer manga (aveces) 
-- Me gustan los videojuegos ,juego al LoL ,CSGO y Valorant
+- Me gustan los videojuegos.
 - Tengo un trabajo de medio tiempo como pintor
-- Me interesa mucho lo que es la programacion,tecnologia y reparacion de Pc
+- Me interesa mucho lo que es la programacion,tecnologia.
